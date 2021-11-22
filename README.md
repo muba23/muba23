@@ -2,11 +2,15 @@
 ### I am a junior web developer
 I have completed my undergrad in CSE from North South University. I was passionate about learning the different aspects of developing websites and thus I chose web development as my career path.
 
-Skills: REACT / Javascript / HTML / CSS
+## Skills:
+✅ REACT 
+✅ Javascript
+✅ HTML / CSS
+✅ Bootstrap/ Tailwind/ Material UI
 
-- 🔭 I’m currently working on improving myself to be a better person everyday. 
-- 🌱 I’m currently learning Node Js 
-- ⚡ Fun fact: Painting is my hobby 
+- 💻 I’m currently working on different projects based on REACT. 
+- 🌱 I’m currently learning Node Js.
+- ⚡ Fun fact: Painting is my hobby.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muba23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mubashshira-amjad23/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mubashshira.amjad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___m_u_b_a___/)  
