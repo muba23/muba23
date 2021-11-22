@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mubashshira Amjad
+## Assalamu Alaikum, I'm Mubashshira Amjad
 ##### I am a junior web developer
 I have completed my undergrad in CSE from North South University. I was passionate about learning the different aspects of developing websites and thus I chose web development as my career path.
 
